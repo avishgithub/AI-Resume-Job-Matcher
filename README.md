@@ -131,6 +131,21 @@ The text similarity score measures textual similarity, not the probability of ge
 - Improve recommendation quality.
 - Enhance the user interface and reporting features.
 
+## Application Screenshots
+
+### Dashboard
+![Application_Dashboard](screenshots/1.dashboard.png)
+
+### Resume Analysis Results
+![Resume_Analysis_Results](screenshots/2.analysis.png)
+
+### Improvement Suggestions
+![Improvement_Suggestions](screenshots/3.improvement_suggestions.png)
+
+### Download PDF Report
+![Download_PDF_Report](screenshots/4.download_analysis_report.png)
+
+
 ## Author
 
 **Avish Sharma**
