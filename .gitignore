@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Generated reports
+resume_analysis_report.pdf
+latest_resume_analysis.pdf
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
