@@ -38,7 +38,12 @@ AI-Resume-Job-Matcher/
 ├── report_generator.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── screenshots/
+    ├── 1.dashboard.png
+    ├── 2.analysis.png
+    ├── 3.improvement_suggestions.png
+    └── 4.download_analysis_report.png
 ```
 
 ## Installation and Setup
@@ -133,16 +138,16 @@ The text similarity score measures textual similarity, not the probability of ge
 
 ## Application Screenshots
 
-### Dashboard
+### 1. Dashboard
 ![Application_Dashboard](screenshots/1.dashboard.png)
 
-### Resume Analysis Results
+### 2. Resume Analysis Results
 ![Resume_Analysis_Results](screenshots/2.analysis.png)
 
-### Improvement Suggestions
+### 3. Improvement Suggestions
 ![Improvement_Suggestions](screenshots/3.improvement_suggestions.png)
 
-### Download PDF Report
+### 4. Download PDF Report
 ![Download_PDF_Report](screenshots/4.download_analysis_report.png)
 
 
